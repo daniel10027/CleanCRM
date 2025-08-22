@@ -340,4 +340,4 @@ curl -X POST http://127.0.0.1:8000/api/campaigns/campaigns/1/queue/ \
 
 ## 📄 Licence
 
-MIT — fais-en bon usage et n’hésite pas à proposer des améliorations ! 🎉
+MIT — fais-en bon usage et n’hésite pas à proposer des améliorations ! 🎉# CleanCRM

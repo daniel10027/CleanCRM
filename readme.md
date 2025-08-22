@@ -7,7 +7,7 @@
 [![Redis](https://img.shields.io/badge/Redis-≥5-orange.svg)]()
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]()
 
-> **Repository**: https://github.com/daniel10027/clean_crm
+> **Repository**: [https://github.com/daniel10027/clean_crm](https://github.com/daniel10027/CleanCRM)
 
 ## 🧠 Idée & Positionnement
 
